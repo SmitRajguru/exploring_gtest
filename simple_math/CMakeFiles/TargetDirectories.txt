@@ -1,0 +1,3 @@
+/mnt/c/Users/smraj/Synced Folder/Git Workspace/exploring_gtest/simple_math/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/smraj/Synced Folder/Git Workspace/exploring_gtest/simple_math/CMakeFiles/edit_cache.dir
+/mnt/c/Users/smraj/Synced Folder/Git Workspace/exploring_gtest/simple_math/CMakeFiles/runTests.dir
